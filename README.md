@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vivek-pin2
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning django, python & basic react native
-- 💞️ I’m looking to collaborate on django project with react native & A.I 
+- 👋 Hi, I’m @vivek  
+- 🌱 I’m currently working on django, python & freeSwitch PBX native c language.
+- 💞️ I’m looking to collaborate on django project with freeswitch & A.I 
 - 📫 How to reach me vivekneg2@gmail.com 
 
 <!---
